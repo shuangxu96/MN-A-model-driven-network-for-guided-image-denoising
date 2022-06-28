@@ -3,7 +3,14 @@
 [Shuang Xu](https://shuangxu96.github.io/)^1, [Jiangshe Zhang](https:// ), [Jialin Wang](), Kai Sun, Chunxia Zhang, Junmin Liu, Junying Hu
 
 
-Models
+Test
+----------
+1. Download all the files from this [hyperlink](https://drive.google.com/drive/folders/1-BS3MSU8J9kLCjswoRbjo3i5e7BK2cSB?usp=sharing). 
+2. Double-click `dataset.zip` to extract data.
+3. Run [test_MN.py](test_MN.py)
+
+
+Pretrained weights
 ----------
 
 |Model|# layers|# filters| Modality|
