@@ -9,7 +9,7 @@ Test
 2. Double-click `dataset.zip` to extract data.
 3. Run [test_MN.py](test_MN.py) to reproduce the following tables. 
 
-|<img src="figs/NIR_table.jpg" width="400px"/>|<img src="figs/Flash_table.jpg" width="400px"/>|
+|<img src="figs/NIR_table.jpg" width="450px"/>|<img src="figs/Flash_table.jpg" width="450px"/>|
 |:---:|:---:|
 |<i>(a) RNS </i>|<i>(b) FAIP</i>|
 
