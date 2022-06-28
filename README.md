@@ -12,6 +12,7 @@ Test
 |<img src="figs/NIR_table.jpg" width="300px"/>|<img src="figs/Flash_table.jpg" width="300px"/>|
 |:---:|:---:|
 |<i>(a) RNS </i>|<i>(b) FAIP</i>|
+
 The table shows the evaluation results on RNS and FAIP. The 1st, 2nd and 3rd best values are marked by bold, red and underline, respectively.
 
 
