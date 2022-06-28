@@ -23,6 +23,7 @@ Test on your own images
 3. Run [eval_MN.py](eval_MN.py) to reproduce the following images. 
 
 |Guidance|Target|Denoised|
+|:---:|:---:|:---:|
 |<img src="figs/toys_guidance_crop.jpg" width="300px"/>|<img src="figs/toys_target_crop.jpg" width="300px"/>|<img src="figs/toys_crop.jpg" width="300px"/>|
 |<img src="figs/sofa_guidance_crop.jpg" width="300px"/>|<img src="figs/sofa_target_crop.jpg" width="300px"/>|<img src="figs/sofa_crop.jpg" width="300px"/>|
 
