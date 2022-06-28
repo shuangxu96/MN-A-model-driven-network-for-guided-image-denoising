@@ -22,7 +22,7 @@ def load_img(path):
     I = I.permute(2,0,1)[None,:,:,:]
     return I
 
-model_str = 'NGN' 
+model_str = 'MN' 
 data_str = 'NIR'
 light_weight = False
 
