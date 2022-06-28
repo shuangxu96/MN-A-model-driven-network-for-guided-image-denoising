@@ -1,6 +1,6 @@
 # [A model-driven network for guided image denoising](https://doi.org/10.1016/j.inffus.2022.03.006)
 
-[Shuang Xu](https://shuangxu96.github.io/)^1, [Jiangshe Zhang](https:// ), [Jialin Wang](), Kai Sun, Chunxia Zhang, Junmin Liu, Junying Hu
+[Shuang Xu](https://shuangxu96.github.io/), [Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang), Jialin Wang, [Kai Sun](http://math.xjtu.edu.cn/info/1372/10164.htm), [Chunxia Zhang](http://gr.xjtu.edu.cn/web/cxzhang )*, [Junmin Liu](http://gr.xjtu.edu.cn/web/junminliu ), [Junying Hu](https://math.nwu.edu.cn/info/1191/2772.htm)
 
 
 Test
