@@ -28,7 +28,7 @@ Test on your own images
 |<img src="figs/sofa_guidance_crop.jpg" width="300px"/>|<img src="figs/sofa_target_crop.jpg" width="300px"/>|<img src="figs/sofa_crop.jpg" width="300px"/>|
 
 
-The table shows the evaluation results on RNS and FAIP. The 1st, 2nd and 3rd best values are marked by bold, red and underline, respectively.
+Here are tested results on real-world .
 
 Pretrained weights
 ----------
