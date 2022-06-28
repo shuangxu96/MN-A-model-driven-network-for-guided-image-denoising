@@ -7,7 +7,7 @@ Test
 ----------
 1. Download all the files from this [hyperlink](https://drive.google.com/drive/folders/1-BS3MSU8J9kLCjswoRbjo3i5e7BK2cSB?usp=sharing). 
 2. Double-click `dataset.zip` to extract data.
-3. [Pretrained weights](#pretrained-weights)
+3. Download the network weights from [Pretrained weights](#pretrained-weights) and place them in `./weight` folder.
 4. Run [test_MN.py](test_MN.py) to reproduce the following tables. 
 
 |<img src="figs/NIR_table.jpg" width="450px"/>|<img src="figs/Flash_table.jpg" width="450px"/>|
