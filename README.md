@@ -8,7 +8,7 @@ Models
 
 |Model|# layers|# filters| Modality|
 |---|:--:|:---:|:---:|
-|[MN](https://drive.google.com/file/d/1qz8aaYOAMhoKn07VppFjRsDflYpxeVmz/view?usp=sharing)     | 7 | 64 |RGB-NIR|
-|[MN](https://drive.google.com/file/d/1R5HKJzHJmou-3iUYd4cNLSyMeWXSOmD4/view?usp=sharing)     | 7 | 64 |Nonflash-Flash|
-|[MN-L](https://drive.google.com/file/d/1xPN26OW5YBN9-5QfK2BGnaovSutH7fLX/view?usp=sharing)| 3 | 32  |RGB-NIR|
-|[MN-L](https://drive.google.com/file/d/1U4BV42Qf0dtBOVbhUNRay6di3j_ioZVM/view?usp=sharing)| 3 | 32  |Nonflash-Flash|
+|[MN](https://drive.google.com/file/d/1Z3TowUKxoAQr9g-vZz_F4f-WdZI7M21j/view?usp=sharing)     | 7 | 64 |RGB-NIR|
+|[MN](https://drive.google.com/file/d/1T8OqTrHlAakKoDl1ZcZJhIS4d1RUfBay/view?usp=sharing)     | 7 | 64 |Nonflash-Flash|
+|[MN-L](https://drive.google.com/file/d/1NMDN_w8d0F2WdmpuqKgYycecas8_L9iH/view?usp=sharing)| 3 | 32  |RGB-NIR|
+|[MN-L](https://drive.google.com/file/d/18Tjcz5QYrkY32HFG-QDLQY2UGz3YbqEp/view?usp=sharing)| 3 | 32  |Nonflash-Flash|
