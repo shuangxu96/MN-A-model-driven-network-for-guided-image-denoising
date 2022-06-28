@@ -24,7 +24,6 @@ Test on your own images
 
 |Guidance|Target|Denoised|
 |<img src="figs/toys_guidance_crop.jpg" width="300px"/>|<img src="figs/toys_target_crop.jpg" width="300px"/>|<img src="figs/toys_crop.jpg" width="300px"/>|
-|:---:|:---:|:---:|
 |<img src="figs/sofa_guidance_crop.jpg" width="300px"/>|<img src="figs/sofa_target_crop.jpg" width="300px"/>|<img src="figs/sofa_crop.jpg" width="300px"/>|
 
 
