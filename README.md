@@ -39,3 +39,18 @@ Pretrained weights
 |[MN](https://drive.google.com/file/d/1T8OqTrHlAakKoDl1ZcZJhIS4d1RUfBay/view?usp=sharing)     | 7 | 64 |Nonflash-Flash|
 |[MN-L](https://drive.google.com/file/d/1NMDN_w8d0F2WdmpuqKgYycecas8_L9iH/view?usp=sharing)| 3 | 32  |RGB-NIR|
 |[MN-L](https://drive.google.com/file/d/18Tjcz5QYrkY32HFG-QDLQY2UGz3YbqEp/view?usp=sharing)| 3 | 32  |Nonflash-Flash|
+
+Citation
+----------
+```BibTex
+@article{xu2022_MN,
+     author = {S. Xu, J. Zhang, J. Wang, K. Sun, C. Zhang, J. Liu, J. Hu},
+     title = {A model-driven network for guided image denoising},
+     journal = {Inf. Fus.},
+     volume = {85},
+     number = {},
+     pages = {60--71},
+     month = {Sep.},
+     year = {2022},
+}
+```
