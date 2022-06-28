@@ -3,11 +3,12 @@
 [Shuang Xu](https://shuangxu96.github.io/)^1, [Jiangshe Zhang](https:// ), [Jialin Wang](), Kai Sun, Chunxia Zhang, Junmin Liu, Junying Hu
 
 
-##Test
+Test
 ----------
 1. Download all the files from this [hyperlink](https://drive.google.com/drive/folders/1-BS3MSU8J9kLCjswoRbjo3i5e7BK2cSB?usp=sharing). 
 2. Double-click `dataset.zip` to extract data.
-3. Run [test_MN.py](test_MN.py) to reproduce the following tables. 
+3. [Pretrained weights](#pretrained-weights)
+4. Run [test_MN.py](test_MN.py) to reproduce the following tables. 
 
 |<img src="figs/NIR_table.jpg" width="450px"/>|<img src="figs/Flash_table.jpg" width="450px"/>|
 |:---:|:---:|
@@ -16,7 +17,7 @@
 The table shows the evaluation results on RNS and FAIP. The 1st, 2nd and 3rd best values are marked by bold, red and underline, respectively.
 
 
-##Pretrained weights
+Pretrained weights
 ----------
 
 |Model|# layers|# filters| Modality|
